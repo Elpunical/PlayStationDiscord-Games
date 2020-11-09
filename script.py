@@ -6,30 +6,25 @@ tmdb_key = bytearray.fromhex('F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9AC
 
 title_ids = [
     'CUSA07022_00', # Fortnite
-    'CUSA05042_00', # Destiny 2
     'CUSA11100_00', # Black Ops 4
     'CUSA05969_00', # WWII
     'CUSA04762_00', # Infinite Warfare
     'CUSA03522_00', # Modern Warfare Remastered
-    'CUSA02290_00', # Black Ops 3
-    'CUSA00803_00', # Advanced Warfare
-    'CUSA00018_00', # Ghosts
-    'CUSA08724_00'  # Battlefield V
-]
-
-urls = [
-    # Top 50 Games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPGAMES?size=200&bucket=games&start=0&gameContentType=games&platform=ps4",
-    # PS+ Games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PSPLUSFREEGAMES?size=30&bucket=games&start=0&platform=ps4",
-    # Top 50 digital only games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPPSNGAMES?size=50&bucket=games&start=0&platform=ps4",
-    # 10 newest free games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-GAMESFREETOPLAY?sort=release_date&direction=desc&size=10&bucket=games&start=0&platform=ps4",
-    # Newest games this month
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-NEWTHISMONTH?game_content_type=games&size=100&bucket=games&start=0&platform=ps4",
-    # Coming soon
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PS3PSNPREORDERS?gameContentType=games&gameType=ps4_full_games%2Cpsn_games&releaseDate=coming_soon%2Clast_30_days&platform=ps4"
+	'CUSA00314_00', # Wolfenstein®: The New Order
+	'CUSA00004_00', # inFAMOUS™: Second Son
+    'CUSA00511_00', # BEYOND: Two Souls™
+	'CUSA07694_00', # Patapon™2 Remastered
+	'CUSA10211_00', # Horizon Zero Dawn™ Complete Edition
+    'CUSA17714_00', # Fall Guys: Ultimate Knockout
+    'CUSA01615_00', # FINAL FANTASY XV
+    'CUSA01836_00', # Deus Ex: Mankind Divided
+    'CUSA01433_00', # Rocket League®
+    'CUSA03468_00', # Vampyr
+    'CUSA04301_00', # Dreams™
+    'CUSA11993_00', # Marvel’s Spider-Man
+    'CUSA04294_00', # WATCH_DOGS®2
+    'CUSA00717_00', # Detroit: Become Human™
+    'CUSA05716_00'  # Rise of the Tomb Raider
 ]
 
 image_dir = 'ps4'
@@ -61,48 +56,11 @@ if __name__ == '__main__':
     if os.path.exists(image_dir):
         shutil.rmtree(image_dir)
 
-    for url in urls:
-        print(f'--- {url} ---')
-        content = requests.get(url).json()
-
-        for item in content['included']:
-            info = item['attributes']
-            
-            if 'thumbnail-url-base' not in info:
-                continue
-
-            if 'game' not in str(info['game-content-type']).lower():
-                continue
-
-            print(info['name'])
-
-            rating = info['star-rating']
-            if not rating['total']:
-                print('\tno ratings')
-                continue
-
-            if rating['total'] < 10 or rating['score'] < 4:
-                print('\tfailed rating check')
-                continue
-
-            match = re.search(r'([A-Z]{4}[0-9]{5}_00)', info['default-sku-id'])
-
-            if not match:
-                print('\tfailed regex check')
-                continue
-            
-            title_id = match.group(1)
-
-            if title_id not in title_ids:
-                title_ids.append(title_id)
-                print('\tadded to list')
-            else:
-                print('\talready added')
-
     # added all the titleIds... now get their images
     for title_id in title_ids:
         url = create_url(title_id)
         content = requests.get(url)
+        print(url)
 
         if content.status_code != 200:
             print('skipping', title_id)

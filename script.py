@@ -24,7 +24,8 @@ title_ids = [
     'CUSA11993_00', # Marvel’s Spider-Man
     'CUSA04294_00', # WATCH_DOGS®2
     'CUSA00717_00', # Detroit: Become Human™
-    'CUSA05716_00'  # Rise of the Tomb Raider
+    'CUSA05716_00', # Rise of the Tomb Raider
+    'CUSA17776_00'  # Marvel's Spider-Man: Miles Morales
 ]
 
 image_dir = 'ps4'

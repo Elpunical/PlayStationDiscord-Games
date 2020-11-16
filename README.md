@@ -28,3 +28,4 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA04294_00.png?raw=true" width="100" height="100">|WATCH_DOGS® 2                            |
 |<img src="ps4/CUSA00717_00.png?raw=true" width="100" height="100">|Detroit: Become Human™                   |
 |<img src="ps4/CUSA05716_00.png?raw=true" width="100" height="100">|Rise of the Tomb Raider                  |
+|<img src="ps4/CUSA17776_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales       |

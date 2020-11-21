@@ -10,11 +10,11 @@ title_ids = [
     'CUSA05969_00', # WWII
     'CUSA04762_00', # Infinite Warfare
     'CUSA03522_00', # Modern Warfare Remastered
-	'CUSA00314_00', # Wolfenstein®: The New Order
-	'CUSA00004_00', # inFAMOUS™: Second Son
+    'CUSA00314_00', # Wolfenstein®: The New Order
+    'CUSA00004_00', # inFAMOUS™: Second Son
     'CUSA00511_00', # BEYOND: Two Souls™
-	'CUSA07694_00', # Patapon™2 Remastered
-	'CUSA10211_00', # Horizon Zero Dawn™ Complete Edition
+    'CUSA07694_00', # Patapon™2 Remastered
+    'CUSA10211_00', # Horizon Zero Dawn™ Complete Edition
     'CUSA17714_00', # Fall Guys: Ultimate Knockout
     'CUSA01615_00', # FINAL FANTASY XV
     'CUSA01836_00', # Deus Ex: Mankind Divided

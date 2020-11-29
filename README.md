@@ -21,6 +21,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps5/CUSA24505_00.png?raw=true" width="100" height="100">|Bugsnax PS4 & PS5                                             |
 |<img src="ps5/PPSA02050_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War - Cross-Gen Bundle PS4 & PS5|
 |<img src="ps5/PPSA02277_00.png?raw=true" width="100" height="100">|Concept Destruction PS4 & PS5                                 |
+|<img src="ps5/CUSA18965_00.png?raw=true" width="100" height="100">|Concept Destruction PS4 & PS5                                 |
 |<img src="ps5/PPSA02049_00.png?raw=true" width="100" height="100">|Dead by Daylight: Special Edition PS4™ & PS5™                 |
 |<img src="ps5/PPSA01341_00.png?raw=true" width="100" height="100">|Demon's Souls                                                 |
 |<img src="ps5/PPSA01443_00.png?raw=true" width="100" height="100">|Devil May Cry 5 Special Edition                               |
@@ -45,10 +46,12 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps5/CUSA24366_00.png?raw=true" width="100" height="100">|Puyo Puyo™ Tetris® 2 Launch Edition                           |
 |<img src="ps5/PPSA01288_00.png?raw=true" width="100" height="100">|Sackboy: A Big Adventure PS4 & PS5                            |
 |<img src="ps5/PPSA01280_00.png?raw=true" width="100" height="100">|Share Factory Studio                                          |
+|<img src="ps5/PPSA02305_00.png?raw=true" width="100" height="100">|Spirit of the North: Enhanced Edition                         |
 |<img src="ps5/PPSA01801_00.png?raw=true" width="100" height="100">|Temtem                                                        |
 |<img src="ps5/PPSA02271_00.png?raw=true" width="100" height="100">|Tesla Force PS4 & PS5                                         |
 |<img src="ps5/PPSA01826_00.png?raw=true" width="100" height="100">|The Pathless PS4 & PS5                                        |
 |<img src="ps5/PPSA02314_00.png?raw=true" width="100" height="100">|Undead Horde PS4 & PS5                                        |
+|<img src="ps5/PPSA01980_00.png?raw=true" width="100" height="100">|Warframe®                                                     |
 |<img src="ps5/PPSA01445_00.png?raw=true" width="100" height="100">|Warhammer: Chaosbane Slayer Edition                           |
 |<img src="ps5/PPSA01948_00.png?raw=true" width="100" height="100">|War Thunder                                                   |
 |<img src="ps5/PPSA01488_00.png?raw=true" width="100" height="100">|Watch Dogs®: Legion PS4 & PS5                                 |
@@ -74,3 +77,4 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA00717_00.png?raw=true" width="100" height="100">|Detroit: Become Human™                                        |
 |<img src="ps4/CUSA05716_00.png?raw=true" width="100" height="100">|Rise of the Tomb Raider                                       |
 |<img src="ps4/CUSA17776_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales                            |
+|<img src="ps4/CUSA00897_00.png?raw=true" width="100" height="100">|inFAMOUS™ First Light                                         |

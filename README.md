@@ -37,10 +37,11 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps5/PPSA01408_00.png?raw=true" width="100" height="100">|Just Dance® 2021                                              |
 |<img src="ps5/PPSA02318_00.png?raw=true" width="100" height="100">|JYDGE PS4 & PS5                                               |
 |<img src="ps5/PPSA02148_00.png?raw=true" width="100" height="100">|King Oddball PS4 & PS5                                        |
-|<img src="ps5/PPSA01344_00.png?raw=true" width="100" height="100">|Madden NFL 21 PS4™ & PS5™                                     |
 |<img src="ps5/CUSA17760_00.png?raw=true" width="100" height="100">|Madden NFL 21 PS4™ & PS5™                                     |
+|<img src="ps5/PPSA01344_00.png?raw=true" width="100" height="100">|Madden NFL 21 PS4™ & PS5™                                     |
 |<img src="ps5/PPSA01862_00.png?raw=true" width="100" height="100">|Maneater PS4 & PS5                                            |
 |<img src="ps5/PPSA01461_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales PS4 & PS5                  |
+|<img src="ps5/PPSA01467_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man Remastered                                |
 |<img src="ps5/PPSA01619_00.png?raw=true" width="100" height="100">|Mortal Kombat 11                                              |
 |<img src="ps5/PPSA01388_00.png?raw=true" width="100" height="100">|NBA 2K21 Next Generation                                      |
 |<img src="ps5/PPSA02486_00.png?raw=true" width="100" height="100">|Nioh 2 Remastered – The Complete Edition                      |

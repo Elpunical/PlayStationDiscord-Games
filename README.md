@@ -83,5 +83,5 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA17776_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales                            |
 |<img src="ps4/CUSA00897_00.png?raw=true" width="100" height="100">|inFAMOUS™ First Light                                         |
 |<img src="ps4/CUSA18278_00.png?raw=true" width="100" height="100">|Cyberpunk 2077                                                |
-|<img src="ps4/CUSA00917_00.png?raw=true" width="100" height="100">|Uncharted™ 4: A Thief’s End                                   |
+|<img src="ps4/CUSA00918_00.png?raw=true" width="100" height="100">|Uncharted™ 4: A Thief’s End                                   |
 |<img src="ps4/CUSA01073_00.png?raw=true" width="100" height="100">|Ratchet & Clank™                                              |

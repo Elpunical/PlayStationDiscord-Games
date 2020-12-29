@@ -16,29 +16,36 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |------------------------------------------------------------------|--------------------------------------------------------------|
 |<img src="ps5/PPSA01490_00.png?raw=true" width="100" height="100">|Assassin's Creed Valhalla PS4 & PS5                           |
 |<img src="ps5/PPSA01325_00.png?raw=true" width="100" height="100">|ASTRO's PLAYROOM                                              |
+|<img src="ps5/PPSA02094_00.png?raw=true" width="100" height="100">|Atelier Ryza 2: Lost Legends & the Secret Fairy PS4 & PS5     |
+|<img src="ps5/PPSA01696_00.png?raw=true" width="100" height="100">|Back 4 Blood: Standard Edition                                |
+|<img src="ps5/PPSA02058_00.png?raw=true" width="100" height="100">|BALAN WONDERWORLD PS4 & PS5                                   |
 |<img src="ps5/PPSA01463_00.png?raw=true" width="100" height="100">|Borderlands 3 PS4™ &  PS5™                                    |
+|<img src="ps5/PPSA02346_00.png?raw=true" width="100" height="100">|Bridge Constructor: The Walking Dead - PS4 & PS5              |
 |<img src="ps5/PPSA01503_00.png?raw=true" width="100" height="100">|Bugsnax                                                       |
 |<img src="ps5/CUSA24505_00.png?raw=true" width="100" height="100">|Bugsnax PS4 & PS5                                             |
 |<img src="ps5/PPSA02050_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War - Cross-Gen Bundle PS4 & PS5|
-|<img src="ps5/PPSA02277_00.png?raw=true" width="100" height="100">|Concept Destruction PS4 & PS5                                 |
 |<img src="ps5/CUSA18965_00.png?raw=true" width="100" height="100">|Concept Destruction PS4 & PS5                                 |
+|<img src="ps5/PPSA02277_00.png?raw=true" width="100" height="100">|Concept Destruction PS4 & PS5                                 |
+|<img src="ps5/PPSA01965_00.png?raw=true" width="100" height="100">|CRSED                                                         |
 |<img src="ps5/PPSA02049_00.png?raw=true" width="100" height="100">|Dead by Daylight: Special Edition PS4™ & PS5™                 |
 |<img src="ps5/PPSA01341_00.png?raw=true" width="100" height="100">|Demon's Souls                                                 |
 |<img src="ps5/PPSA02410_00.png?raw=true" width="100" height="100">|Destiny 2 PS4™ & PS5™                                         |
 |<img src="ps5/PPSA01443_00.png?raw=true" width="100" height="100">|Devil May Cry 5 Special Edition                               |
-|<img src="ps5/PPSA01551_00.png?raw=true" width="100" height="100">|DIRT 5                                                        |
+|<img src="ps5/PPSA01551_00.png?raw=true" width="100" height="100">|DIRT 5 PS4 & PS5                                              |
 |<img src="ps5/PPSA01326_00.png?raw=true" width="100" height="100">|FIFA 21 Beckham Edition PS4™ & PS5™                           |
 |<img src="ps5/PPSA01923_00.png?raw=true" width="100" height="100">|Fortnite                                                      |
+|<img src="ps5/PPSA02654_00.png?raw=true" width="100" height="100">|Freddy Spaghetti PS4 & PS5                                    |
 |<img src="ps5/PPSA01349_00.png?raw=true" width="100" height="100">|Godfall Standard Edition                                      |
 |<img src="ps5/PPSA02010_00.png?raw=true" width="100" height="100">|GoonyaFighter JigglyHapticEdition                             |
 |<img src="ps5/PPSA01562_00.png?raw=true" width="100" height="100">|Haven                                                         |
 |<img src="ps5/PPSA01506_00.png?raw=true" width="100" height="100">|Immortals Fenyx Rising™ PS4 & PS5                             |
+|<img src="ps5/PPSA02689_00.png?raw=true" width="100" height="100">|Infliction: Extended Cut                                      |
 |<img src="ps5/PPSA02343_00.png?raw=true" width="100" height="100">|It Takes Two                                                  |
 |<img src="ps5/PPSA01408_00.png?raw=true" width="100" height="100">|Just Dance® 2021                                              |
 |<img src="ps5/PPSA02318_00.png?raw=true" width="100" height="100">|JYDGE PS4 & PS5                                               |
 |<img src="ps5/PPSA02148_00.png?raw=true" width="100" height="100">|King Oddball PS4 & PS5                                        |
-|<img src="ps5/CUSA17760_00.png?raw=true" width="100" height="100">|Madden NFL 21 PS4™ & PS5™                                     |
 |<img src="ps5/PPSA01344_00.png?raw=true" width="100" height="100">|Madden NFL 21 PS4™ & PS5™                                     |
+|<img src="ps5/CUSA17760_00.png?raw=true" width="100" height="100">|Madden NFL 21 PS4™ & PS5™                                     |
 |<img src="ps5/PPSA01862_00.png?raw=true" width="100" height="100">|Maneater PS4 & PS5                                            |
 |<img src="ps5/PPSA01461_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales PS4 & PS5                  |
 |<img src="ps5/PPSA01467_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man Remastered                                |
@@ -48,15 +55,11 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps5/PPSA02482_00.png?raw=true" width="100" height="100">|Nioh Remastered – The Complete Edition                        |
 |<img src="ps5/PPSA01412_00.png?raw=true" width="100" height="100">|No Man's Sky PS4 & PS5                                        |
 |<img src="ps5/PPSA02117_00.png?raw=true" width="100" height="100">|Observer: System Redux                                        |
+|<img src="ps5/PPSA02545_00.png?raw=true" width="100" height="100">|Outbreak: Epidemic                                            |
+|<img src="ps5/PPSA02547_00.png?raw=true" width="100" height="100">|Outbreak: The New Nightmare                                   |
 |<img src="ps5/PPSA01528_00.png?raw=true" width="100" height="100">|Overcooked! All You Can Eat                                   |
+|<img src="ps5/CUSA24627_00.png?raw=true" width="100" height="100">|Override 2: Super Mech League                                 |
 |<img src="ps5/PPSA01735_00.png?raw=true" width="100" height="100">|Planet Coaster: Console Edition PS4 & PS5                     |
-|<img src="ps5/PPSA01938_00.png?raw=true" width="100" height="100">|Puyo Puyo™ Tetris® 2                                          |
-|<img src="ps5/PPSA01397_00.png?raw=true" width="100" height="100">|Rainbow Six Siege PS5 Upgrade Edition                         |
-|<img src="ps5/PPSA01285_00.png?raw=true" width="100" height="100">|Returnal                                                      |
-|<img src="ps5/PPSA01288_00.png?raw=true" width="100" height="100">|Sackboy: A Big Adventure PS4 & PS5                            |
-|<img src="ps5/PPSA01280_00.png?raw=true" width="100" height="100">|Share Factory Studio                                          |
-|<img src="ps5/PPSA02305_00.png?raw=true" width="100" height="100">|Spirit of the North: Enhanced Edition                         |
-|<img src="ps5/PPSA01801_00.png?raw=true" width="100" height="100">|Temtem                                                        |
 |<img src="ps4/CUSA07022_00.png?raw=true" width="100" height="100">|Fortnite                                                      |
 |<img src="ps4/CUSA11100_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops 4                                    |
 |<img src="ps4/CUSA05969_00.png?raw=true" width="100" height="100">|Call of Duty®: WWII                                           |
@@ -79,3 +82,6 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA05716_00.png?raw=true" width="100" height="100">|Rise of the Tomb Raider                                       |
 |<img src="ps4/CUSA17776_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales                            |
 |<img src="ps4/CUSA00897_00.png?raw=true" width="100" height="100">|inFAMOUS™ First Light                                         |
+|<img src="ps4/CUSA13478_00.png?raw=true" width="100" height="100">|Thronebreaker: The Witcher Tales                              |
+|<img src="ps4/CUSA00917_00.png?raw=true" width="100" height="100">|Uncharted™ 4: A Thief’s End                                   |
+|<img src="ps4/CUSA01073_00.png?raw=true" width="100" height="100">|Ratchet & Clank™                                              |
